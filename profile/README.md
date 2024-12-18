@@ -1,4 +1,4 @@
 # ITlopa - Студия разработки игр
 # Проекты
-GoldSpace Engine
+GoldSpace Engine,
 Half-Space
